@@ -25,3 +25,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajwalr7&theme=dracula&show_icons=true&locale=en" alt="prajwalr7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalr7&theme=dracula" alt="prajwalr7" /></p>
+
+### :zap: Recent Activity
+<!--START_SECTION:activity-->
