@@ -40,6 +40,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#12](https://github.com/aman863/bazaar-frontend/pull/12) in [aman863/bazaar-frontend](https://github.com/aman863/bazaar-frontend)
+2. ❌ Closed PR [#11](https://github.com/aman863/bazaar-frontend/pull/11) in [aman863/bazaar-frontend](https://github.com/aman863/bazaar-frontend)
+3. 💪 Opened PR [#11](https://github.com/aman863/bazaar-frontend/pull/11) in [aman863/bazaar-frontend](https://github.com/aman863/bazaar-frontend)
+4. 🎉 Merged PR [#1](https://github.com/PrajwalR7/inhaleGame/pull/1) in [PrajwalR7/inhaleGame](https://github.com/PrajwalR7/inhaleGame)
   <!--END_SECTION:activity-->
 
 </details>
