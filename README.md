@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Nextjs 
 
-- Check my portfolio [https://prajwalr7.github.io/portfolio/](https://prajwalr7.github.io/portfolio/)
+- Check my portfolio [https://prajwalr7.netlify.app/](https://prajwalr7.netlify.app/)
 
 - 📫 How to reach me **rameshprajwal21@gmail.com**
 
