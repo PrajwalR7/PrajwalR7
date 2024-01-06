@@ -3,13 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalr7&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalr7" /> </p>
 
-- 🌱 I’m currently learning Rust 
-
 - Check my portfolio [https://prajwalr7.netlify.app/](https://prajwalr7.netlify.app/)
 
 - 📫 How to reach me **rameshprajwal21@gmail.com**
-
-- ⚡ Fun fact **I love F1**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
