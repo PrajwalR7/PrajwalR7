@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Prajwal R</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalr7&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalr7" /> </p>
 
 - Check my portfolio [https://prajwalr7.netlify.app/](https://prajwalr7.netlify.app/)
